@@ -11,6 +11,3 @@
  ```html
 wget -q https://raw.githubusercontent.com/RidwanzAnphelibelll/AutoScript/main/update.sh && chmod +x update.sh && ./update.sh
 ```
-
-apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
-apt update && apt upgrade -y && update-grub && sleep 2 && reboot
