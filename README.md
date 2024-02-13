@@ -11,8 +11,6 @@
  ```html
 wget -q https://raw.githubusercontent.com/RidwanzAnphelibelll/AutoScript/main/update.sh && chmod +x update.sh && ./update.sh
 ```
-
-### **[+] ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴀᴛ :**
 <p align="center">
   <a href="https://www.facebook.com/RidwanzAnphelibelll"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://wa.me/6285225416745"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
